@@ -1,4 +1,5 @@
----
+<html>
+<body>
 <h1>Privacy Policy</h1>
 <p>[Individual or Company Name] built the [App Name] app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
     for use as is.</p>
@@ -77,3 +78,5 @@
     [me|us].</p>
 <p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
                                               target="_blank">privacypolicytemplate.net</a>.</p>
+</body>
+</html>
