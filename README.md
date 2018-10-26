@@ -77,4 +77,3 @@
     [me|us].</p>
 <p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
                                               target="_blank">privacypolicytemplate.net</a>.</p>
----
